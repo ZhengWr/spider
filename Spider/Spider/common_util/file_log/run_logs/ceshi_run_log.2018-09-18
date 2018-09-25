@@ -1,0 +1,10 @@
+2018-09-18 12:49:29,793 INFO log_util.py 85 29944 abc
+2018-09-18 12:49:29,793 ERROR log_util.py 86 29944 def
+2018-09-18 12:49:29,793 WARNING log_util.py 87 29944 ghi
+2018-09-18 12:49:29,793 INFO log_util.py 91 29944 计算除数为0的式子
+2018-09-18 12:49:29,793 ERROR log_util.py 95 29944 division by zero
+2018-09-18 12:49:29,793 ERROR log_util.py 96 29944 Traceback (most recent call last):
+  File "/Users/ruili/svn/Spider/Spider/common_util/common_util/log_util.py", line 92, in <module>
+    a = 1/0
+ZeroDivisionError: division by zero
+
